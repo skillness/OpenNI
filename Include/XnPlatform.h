@@ -54,7 +54,7 @@
 		#endif
 
 		#if _MSC_VER > 1600 // After MSVC8 (2010)
-			#error Xiron Platform Abstraction Layer - Win32 - Microsoft Visual Studio versions above 2010 (10.0) are not supported!
+//			#error Xiron Platform Abstraction Layer - Win32 - Microsoft Visual Studio versions above 2010 (10.0) are not supported!
 		#endif
 	#endif
 
